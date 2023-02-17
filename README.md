@@ -1,2 +1,3 @@
-# IG-API
-This script can be useful for individuals who want to keep track of their Instagram followers,
+
+## With this script
+You can easily identify the people who are not following you back, your friends, and the non-followers.
